@@ -3,3 +3,7 @@ git clone https://github.com/dhodhom/dhodhom-git-test.git
 git remote
 git remote -v                       : lihat lebih detail
 alias graph="git log --all --decorate --oneline --graph"
+membuat file index.html
+git add .
+git commit -m "menambahkan file index.html"
+git push
