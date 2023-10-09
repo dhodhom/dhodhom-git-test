@@ -7,3 +7,9 @@ membuat file index.html
 git add .
 git commit -m "menambahkan file index.html"
 git push
+
+============ melakukan config user remote ============
+git config --global user.name "Lukman Nurhakim"
+git config --global user.email "dhodhom@gmail.com"
+============ melakukan config user remote ============
+git config
