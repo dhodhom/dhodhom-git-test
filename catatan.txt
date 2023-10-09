@@ -1,0 +1,5 @@
+melakukan clone repo
+git clone https://github.com/dhodhom/dhodhom-git-test.git
+git remote
+git remote -v                       : lihat lebih detail
+alias graph="git log --all --decorate --oneline --graph"
